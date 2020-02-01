@@ -2,11 +2,7 @@ hello
 skmkasm
 hakdls
 skdmasm snanc
-<<<<<<< HEAD
-jdjdjskaie
-=======
 jdjdjskaie
 hello
 aajaj
-
->>>>>>> sab
+my name is sabal

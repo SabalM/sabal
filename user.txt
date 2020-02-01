@@ -2,4 +2,11 @@ hello
 skmkasm
 hakdls
 skdmasm snanc
+<<<<<<< HEAD
 jdjdjskaie
+=======
+jdjdjskaie
+hello
+aajaj
+
+>>>>>>> sab
